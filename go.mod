@@ -1,4 +1,4 @@
-module github.com/uimeet/whatsmeow
+module go.mau.fi/whatsmeow
 
 go 1.23.0
 
